@@ -1,3 +1,5 @@
+package myprojects.isprojects.Assignment3;
+
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -98,3 +100,4 @@ public class MusicGUI extends JFrame {
 	}
 		
 }
+

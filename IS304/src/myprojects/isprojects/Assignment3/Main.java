@@ -1,4 +1,4 @@
-package myprojects.isprojects;
+package myprojects.isprojects.Assignment3;
 
 public class Main {
 
